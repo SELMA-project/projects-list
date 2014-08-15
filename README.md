@@ -3,7 +3,7 @@
 http://selma.sheol.fr
 
 ### Bitbucket academic account
-Créé un compte directement avec l'adresse Epitech, n'oubliez pas que vous en avez 3 (au choix) :
+Créez un compte directement avec l'adresse Epitech, n'oubliez pas que vous en avez 3 (au choix) :
 - login_x@epitech.eu
 - prenom.nom@epitech.eu
 - nom.prenom@epitech.eu
