@@ -18,7 +18,7 @@ https://bitbucket.org/selma-project
 
 # Liste des projets prévus pour SELMA
 ### Mon premier toolkit comme un grand
-- Keyloger.
+- Keylogger.
 - Pumper.
 - Hide extension file.
 - Crasher.
