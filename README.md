@@ -17,7 +17,7 @@ Contactez directement "fontai_d", par e-mail de préférence.
 https://bitbucket.org/selma-project
 
 # Liste des projets prévus pour SELMA
-## Mon premier toolkit comme un grand
+### Mon premier toolkit comme un grand
 - Keyloger.
 - Pumper.
 - Hide extension file.
@@ -26,9 +26,9 @@ https://bitbucket.org/selma-project
 - Hexa Editor (bonus).
 - Crypteur (bonus).
 
-## Logiciel de steganographie simple
+### Logiciel de steganographie simple
 - Cacher une image dans une image.
 - Transformer une image en son pur (visualisation par spectogramme).
 
-## SQL Injection Finder
+### SQL Injection Finder
 Brute force d'injection SQL simple.
