@@ -3,13 +3,12 @@ http://selma.sheol.fr
 
 # Accès aux dépôts privés
 ## Bitbucket academic account
-Créé un compte directement avec l'adresse Epitech, 
-n'oubliez pas que vous en avez 3 (au choix) :
+Créé un compte directement avec l'adresse Epitech, n'oubliez pas que vous en avez 3 (au choix) :
 - login_x@epitech.eu
 - prenom.nom@epitech.eu
 - nom.prenom@epitech.eu
-Ou si vous avez déjà un compte, 
-enregistrez votre adresse Epitech dans la section prévue à cet effet.
+
+Ou si vous avez déjà un compte, enregistrez votre adresse Epitech dans la section prévue à cet effet.
 
 ## Demande d'accès
 Contactez directement "fontai_d", par e-mail de préférence.
