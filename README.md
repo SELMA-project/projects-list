@@ -1,8 +1,8 @@
-# Website du Lab (bientôt)
+# Liens et Informations importantes
+### Website du Lab (bientôt)
 http://selma.sheol.fr
 
-# Accès aux dépôts privés
-## Bitbucket academic account
+### Bitbucket academic account
 Créé un compte directement avec l'adresse Epitech, n'oubliez pas que vous en avez 3 (au choix) :
 - login_x@epitech.eu
 - prenom.nom@epitech.eu
@@ -10,14 +10,14 @@ Créé un compte directement avec l'adresse Epitech, n'oubliez pas que vous en a
 
 Ou si vous avez déjà un compte, enregistrez votre adresse Epitech dans la section prévue à cet effet.
 
-## Demande d'accès
+### Demande d'accès
 Contactez directement "fontai_d", par e-mail de préférence.
 
-## Liste des repos privés
+### Liste des repos privés
 https://bitbucket.org/selma-project
 
 # Liste des projets prévus pour SELMA
-## Mon premier toolkit comme un grands
+## Mon premier toolkit comme un grand
 - Keyloger.
 - Pumper.
 - Hide extension file.
